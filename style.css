@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://wallpapershome.ru/images/wallpapers/kosmos-1920x1080-zvezdi-6592.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+h1 {
+    text-align: center;
+    color: cadetblue;
+    font-family: monospace;
+}
+
+p {
+    text-align: center; 
+    color: cadetblue;
+    font-family: monospace;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    color: white;
+    text-decoration: overline;
+    word-spacing: 10px;
+}
+
+ol {
+    color: cadetblue;
+    font-family: monospace;
+    font-size: 15px;
+}
+ul {
+    color: cadetblue;
+    font-family: monospace;
+    font-size: 15px;
+}
+
